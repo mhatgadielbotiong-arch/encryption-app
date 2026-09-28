@@ -1,0 +1,7 @@
+{
+  "name": "encryption-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
